@@ -10,10 +10,10 @@ The designed implementing algorithms is collaborative filtering-based recommenda
 ## Data require
 To build a recommendation engine, dataset as an important part to evaluate the utility of the recommendations. 
 The dataset below can provide some useful data which can be used to evaluate the algorithms.
-Yahoo! - Movie, Music, and Images Ratings Data Sets: https://webscope.sandbox.yahoo.com/catalog.php?datatype=r
-Spotify - RecSys Challenge 2018 Data Sets: https://recsys-challenge.spotify.com/details
-Kaggle - Million Song Dataset Challenge: https://www.kaggle.com/c/msdchallenge
-Datasets For recommender system: http://shuaizhang.tech/2017/03/15/Datasets-For-Recommender-System/
+ - Yahoo! - Movie, Music, and Images Ratings Data Sets: https://webscope.sandbox.yahoo.com/catalog.php?datatype=r
+ - Spotify - RecSys Challenge 2018 Data Sets: https://recsys-challenge.spotify.com/details
+ - Kaggle - Million Song Dataset Challenge: https://www.kaggle.com/c/msdchallenge
+ - Datasets For recommender system: http://shuaizhang.tech/2017/03/15/Datasets-For-Recommender-System/
 
 ---
 ## Evaluate
