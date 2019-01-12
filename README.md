@@ -1,4 +1,8 @@
 # Recommendation-engine
+
+ - Student Name: Hao Bai
+ - Student Number: 180223545
+ 
 ## Introduction
 Recommendation engine as a subclass of the information filtering system related vast areas for example music, movie, online selling, search engine and so on. The collaborative filtering-based recommendations and content-based recommendations are the ways to generate recommendations. The designed project is to implement these two recommendations algorithms and evaluate the effectiveness.
 
@@ -21,5 +25,5 @@ The designed evaluate methods is to split the data into the training set and the
 
 ---
 ## New skill Learning
-Python, TensorFlow, deep learning, recommdation systems, signal processing, recommdation systems evaluate methods.
+Python, TensorFlow, Deep learning, Recommdation systems, Signal processing (might be used), Recommdation systems evaluate methods.
 
